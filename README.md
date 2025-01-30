@@ -1,4 +1,13 @@
 ## Hi there 👋
+Welcome to my Github! 
+
+Repos:
+- **Publications-and-Papers-** for Research Publications and Dissertations etc.
+- **ML-Projects** for Notebooks 
+- **TIKR** web app for Stock Prediction
+- **API** for all API related projects/notebooks
+- **CEMADEN** for Brazil Data Science Work
+- **Data-Science-Work-** for Uni of Bath Mathematics, Stats and Data Science Projects and Courseworks.
 
 <!--
 **nhowley72/nhowley72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
