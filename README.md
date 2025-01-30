@@ -3,7 +3,7 @@ Welcome to my Github!
 
 Repos:
 - **Publications-and-Papers-** for Research Publications and Dissertations etc.
-- **ML-Projects** for Notebooks 
+- **ML-Projects** for ML Notebooks of all kinds of ML  
 - **TIKR** web app for Stock Prediction
 - **API** for all API related projects/notebooks
 - **CEMADEN** for Brazil Data Science Work
