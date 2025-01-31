@@ -2,9 +2,9 @@
 Welcome to my Github! 
 
 Repos:
+- **TIKR** web app for Stock Prediction **https://nhowley72.github.io/TIKR/**
 - **Publications-and-Papers-** for Research Publications and Dissertations etc.
 - **ML-Projects** for ML Notebooks of all kinds of ML  
-- **TIKR** web app for Stock Prediction
 - **API** for all API related projects/notebooks
 - **CEMADEN** for Brazil Data Science Work
 - **Data-Science-Work-** for Uni of Bath Mathematics, Stats and Data Science Projects and Courseworks.
