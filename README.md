@@ -2,10 +2,8 @@
 Welcome to my Github! 
 
 Repos:
-- **TIKR** web app for Stock Prediction **[tikr.co.uk](https://tikr.co.uk/)**
 - **Publications-and-Papers-** for Research Publications and Dissertations etc.
-- **ML-Projects** for ML Notebooks of all kinds of ML  
-- **API** for all API related projects/notebooks
+- **ML-Projects** for ML Notebooks of Supervised, Unsupervised ... 
 - **CEMADEN** for Brazil Data Science Work
 - **Data-Science-Work-** for Uni of Bath Mathematics, Stats and Data Science Projects and Courseworks.
 
