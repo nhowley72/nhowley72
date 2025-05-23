@@ -1,4 +1,4 @@
-## Noel Howley
+## Noel Howley
 
 ### MLE Website for predicting stocks [tikr.co.uk](https://tikr.co.uk/)
 
