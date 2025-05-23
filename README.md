@@ -1,7 +1,6 @@
-## Hi there 👋
-Welcome to my Github! 
+## Noel Howley
 
-MLE Website for predicting stocks [tikr.co.uk](https://tikr.co.uk/)
+### MLE Website for predicting stocks [tikr.co.uk](https://tikr.co.uk/)
 
 Repos:
 - **Publications-and-Papers-** for Research Publications and Dissertations etc.
